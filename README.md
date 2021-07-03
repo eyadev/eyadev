@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eyadev
 - 👀 I’m interested in design and coding
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate 
+- 💞️ I’m looking to collaborate on web or mobile projects (design or coding)
 - 📫 How to reach me : a.lamrabti@mundiapolis.ma
 
 <!---
