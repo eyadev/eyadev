@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eyadev software engineering student at MUNDIAPOLIS university
-- 👀 I’m interested in UI/UX design.
-- 🌱 I’m currently learning BI.
+<!-- - 👀 I’m interested in UI/UX design and BI. -->
+<!-- - 🌱 I’m currently learning BI. -->
 - 📫 How to reach me : 
 <a href="https://www.linkedin.com/in/aya-lamrabti-1b7756163/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
