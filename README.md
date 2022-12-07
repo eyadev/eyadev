@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eyadev software engineering student at MUNDIAPOLIS university
+- 👋 Hi, I’m @eyadev 
 <!-- - 👀 I’m interested in UI/UX design and BI. -->
 <!-- - 🌱 I’m currently learning BI. -->
 - 📫 How to reach me : 
